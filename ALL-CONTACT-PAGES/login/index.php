@@ -1,3 +1,39 @@
+<?php
+$con = ('localhost', 'root', '', 'eds');
+session_start();
+   if(isset($_POST['login']){
+
+   $email= $_POST['email'];
+   $password= $_POST['password'];
+
+   $select = "SELECT * FROM user WHERE Email = '$email' and Password = '$password'";
+   $query = mysqli_query($con ,$select);
+   $count = mysqli_num_rows($query);
+
+    
+	if(mysqli_num_rows($query) > 0) {
+		while($row = mysqli_fetch_array($query)) {
+
+			$db_email = $row['Email'];
+			$db_password = $row['Password'];
+			
+				if($db_email == 'admin@stexity.com' && $db_password == '1234') {
+					echo "<script>window.location.assign('pending_requests.php')</script>";
+				}
+			
+		}
+	}
+
+	else {
+		echo  "<script>alert('Your Login Name or Password is invalid')</script>";
+	}   
+
+    }
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -89,13 +125,13 @@
 
 
     <div class="niopp">
-        <form class="rection" action="">
+        <form class="rection" action="#" method="post">
             <img class="ritu" src="../images/eds-international-copy-164x76.png" alt="">
             <h1 class="headeing">Login</h1>
-            <input class="email" placeholder="Email" type="text">
-            <input class="email" placeholder="Password" type="password">
+            <input class="email" name="email" placeholder="Email" type="text">
+            <input class="email" name="password" placeholder="Password" type="password">
             <div class="kop">
-                <button class="btn1">Login</button>
+                <button class="btn1" name="login">Login</button>
             </div>
             <!-- <a class="for" href="#">Forgotten password?</a>
           <button class="btn2">Create New Account</button> -->
