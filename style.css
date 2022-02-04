@@ -50,7 +50,7 @@ img {
 }
 .locatio {
   display: flex;
-  gap: 15px;
+  gap: 5px;
   align-items: center;
 }
 
@@ -1330,8 +1330,9 @@ a{
 }
 
 .lj{
-  padding-left: 0;
   margin-left: 10px;
+  margin-top: 25px;
+  padding-left: 0;
   list-style:square;
 }
 .toiip{
@@ -1353,7 +1354,7 @@ a{
 }
 
 .jhom{
-  margin-top: 20px;
+  margin-top: 25px;
   display: flex;
   gap: 10px;
 }
@@ -1407,4 +1408,25 @@ a{
     width: 100%;
   }
   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hiper{
+  width: 150px;
+  height: 150px;
 }
