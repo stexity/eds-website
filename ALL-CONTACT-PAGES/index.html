@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="../../images/eds-international-copy-164x76.png">
+
 </head>
 
 <body>
