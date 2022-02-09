@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="../../images/eds-international-copy-164x76.png">
+
 </head>
 
 <body>
+
 
 
 
@@ -71,62 +74,116 @@
     <!-- navbar END -->
 
 
-    <div class="gimbole">
-        <div class="jerin">
-            <div class="lop">
-                <img class="obj" src="../images/Happy Bunch Chat.png">
-            </div>
-            <div class="kamal">
-                
-                <div class="location">
-                    <div class="center">
-                        <ion-icon class="icm" name="location-outline"></ion-icon>
-                    </div>
-                    <p class="fiter">3rdFloor LS-30 Block 13 F'B Area Karachi, Pakistan</p>
-                </div>
-                <div class="location">
-                    <div class="center">
-                        <ion-icon class="icm" name="call-outline"></ion-icon>
-                    </div>
-                    <p class="fiter">602-236-4143</p>
-                </div>
-                <div class="location">
-                    <div class="center">
-                        <ion-icon class="icm" name="mail-outline"></ion-icon>
-                    </div>
-                    <p class="fiter">info@eds-pk.com</p>
-                </div>
-            </div>
+    <div class="jim">
+
+        <h1 class="loop">Do You Need Job</h1>
+        <div class="foot">
+            <p class="lop">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda aut itaque, nam illum
+                nulla totam officia perferendis quidem. Non rerum tenetur, nobis autem aliquid consectetur laudantium.
+                Rem error corporis qui.</p>
         </div>
-        <div class="conta">
-            <h1 class="get">Get In Touch</h1>
-            <p class="are">We are here for you!How can we help?</p>
-
-               <form class="reg" action="">
-                   <input class="your" placeholder="Your Name"  type="text">
-                   <input class="your" placeholder="Your Email " type="text">
-                   <input class="your"  placeholder="Your Subject" type="text">
-                   <textarea  class="your1" placeholder="Message" cols="30" rows="10"></textarea>
-                   <button class="btn1">Send Message</button>
-
-               </form>
-
-             
+        <div class="btn">
+            <button class="btn1">Contact Us</button>
         </div>
+
+
+
+        <h1 class="loop loop1">Lorem ipsum dolor sit amet . </h1>
+        <div class="foot foot1 ">
+            <p class="lopp">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda aut itaque.</p>
+        </div>
+
+
+
+
+
+
+        <div class="shoop">
+            <div class="top-menu">
+                <!-- <div class="imgo">
+                    <img class="girl" src="../images/Ellipse 1.png">
+                </div> -->
+                <div class="kam">
+                    <h1 class="por">Product Manager</h1>
+                    <div class="name">
+                        <p class="shim">Remote-Friendly</p>
+                   
+                    </div>
+                </div>
+            </div>
+            <p class="koman"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+            </p>
+        </div>
+
+
+
+
+        <div class="shoop">
+            <div class="top-menu">
+                <!-- <div class="imgo">
+                    <img class="girl" src="../images/Ellipse 1.png">
+                </div> -->
+                <div class="kam">
+                    <h1 class="por">Product Manager</h1>
+                    <div class="name">
+                        <p class="shim">Remote-Friendly</p>
+                    
+                    </div>
+                </div>
+            </div>
+            <p class="koman"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+            </p>
+        </div>
+
+
+
+
+        <div class="shoop">
+            <div class="top-menu">
+                <!-- <div class="imgo">
+                    <img class="girl" src="../images/Ellipse 1.png">
+                </div> -->
+                <div class="kam">
+                    <h1 class="por">Product Manager</h1>
+                    <div class="name">
+                        <p class="shim">Remote-Friendly</p>
+                  
+                    </div>
+                </div>
+            </div>
+            <p class="koman"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+            </p>
+        </div>
+
+
+
+
+        <div class="shoop">
+            <div class="top-menu">
+                <!-- <div class="imgo">
+                    <img class="girl" src="../images/Ellipse 1.png">
+                </div> -->
+                <div class="kam">
+                    <h1 class="por">Product Manager</h1>
+                    <div class="name">
+                        <p class="shim">Remote-Friendly</p>
+                    
+                    </div>
+                </div>
+            </div>
+            <p class="koman"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam velit aperiam temporibus unde pariatur est repudiandae eius officia nulla tempore, nihil quam sint exercitationem! Quia voluptatum eos iusto quae similique.
+            </p>
+        </div>
+
+
+
+
 
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -245,9 +302,114 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <script src="app.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
 </body>
 
 </html>

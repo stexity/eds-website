@@ -16,6 +16,7 @@
   <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/css/swiffy-slider.min.css" rel="stylesheet"
     crossorigin="anonymous" />
   <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.3.1/dist/js/swiffy-slider-extensions.min.js"></script>
+  <link rel="icon" href="./images/eds-international-copy-164x76.png">
 </head>
 
 <body>
@@ -812,12 +813,12 @@
       </div>
 
       <div class="contact-right">
-        <form class="lerser" action="">
-          <input class="inp" placeholder="Your Name" type="text" />
-          <input class="inp" placeholder="Your Email" type="text" />
-          <input class="inp" placeholder="Your Subject" type="text" />
-          <textarea class="inp inp1" placeholder="Message" cols="30" rows="10"></textarea>
-          <button class="btn4">SEND MASSAGE</button>
+        <form class="lerser" action="#" method="post">
+          <input class="inp" name="name" placeholder="Your Name" type="text" />
+          <input class="inp" name="email" placeholder="Your Email" type="text" />
+          <input class="inp" name="subject" placeholder="Your Subject" type="text" />
+          <textarea class="inp inp1" name="message" placeholder="Message" cols="30" rows="10"></textarea>
+          <button class="btn4" name="submit">SEND MASSAGE</button>
         </form>
       </div>
     </div>
@@ -960,3 +961,27 @@
 </body>
 
 </html>
+
+<?php
+    if(isset($_POST['submit'])){
+        $name=$_POST['name']; 
+        $email=$_POST['email'];
+        $subject=$_POST['subject'];
+        $message=$_POST['message'];
+
+        $to='hammadarshad834@gmail.com';
+        $sub="Form Submission";
+        $msg="Name: ".$name."\n"."Subject: ".$subject."\n"."Email: ".$email."\n"."Message: "."\n".$message;
+
+        $result=mail($to, $sub, $msg);
+
+        if($result){
+            $alert = "<script>alert('Sent Successfully! Thank You"." ".$name.", We Will contact you shortly!')</script>";
+            echo $alert;
+        }
+        else{
+          $alert = "<script>alert('Something went wrong')</script>";
+          echo $alert;
+        }
+    }
+?>
