@@ -808,6 +808,19 @@ width: 100%;
   font-size: 20px;
   font-weight: 400;
 }
+.center-project{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.btn1-all-porjects{
+  width: 200px;
+  border: none;
+  margin-top: 30px;
+  background-color: #bf8148;
+  color: #fff;
+  height: 55px;
+}
 
 
 @media (max-width:1323px) {

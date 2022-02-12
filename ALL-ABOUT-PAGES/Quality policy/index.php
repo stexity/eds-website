@@ -25,7 +25,7 @@
         </div>
 
         <ul class="links op">
-          <li class="lin"><a class="lin" href="../../index.html">HOME</a></li>
+          <li class="lin"><a class="lin" href="../../index.php">HOME</a></li>
           <li class="lin ser">
             <div>
               ABOUT
@@ -38,25 +38,25 @@
             </div>
             <ul class="hon">
               <li class="CIVIL">
-                <a class="CIVIL" href="../About-pages/index.html">PROFILE</a>
+                <a class="CIVIL" href="../About-pages/index.php">PROFILE</a>
               </li>
               <li class="CIVIL">
-                <a class="CIVIL" href="../certificate/index.html"
+                <a class="CIVIL" href="../certificate/index.php"
                   >CERTIFICATES</a
                 >
               </li>
               <li class="CIVIL">
-                <a class="CIVIL" href="index.html"></a> QUALITY POLICY
+                <a class="CIVIL" href="index.php"></a> QUALITY POLICY
               </li>
               <li class="CIVIL">
-                <a class="CIVIL" href="../Our clients/index.html"
+                <a class="CIVIL" href="../Our clients/index.php"
                   >OUR CLIENTS</a
                 >
               </li>
             </ul>
           </li>
           <li class="lin">
-            <a class="lin" href="../../ALL-SERVICES/index.html">SERVICES</a>
+            <a class="lin" href="../../ALL-SERVICES/index.php">SERVICES</a>
           </li>
 
           <li class="lin flop">
@@ -84,10 +84,10 @@
             </ul>
           </li>
           <li class="lin">
-            <a class="lin" href="../../CAREER-PAGE/index.html"> CAREER</a>
+            <a class="lin" href="../../CAREER-PAGE/index.php"> CAREER</a>
           </li>
           <li class="lin">
-            <a class="lin" href="../../ALL-CONTACT-PAGES/index.html">CONTACT</a>
+            <a class="lin" href="../../ALL-CONTACT-PAGES/index.php">CONTACT</a>
           </li>
         </ul>
       </div>
@@ -95,9 +95,11 @@
     <!-- navbar END -->
 
     <div class="uinq">
-      <h1 class="qui">QUALITY POLICY</h1>
 
-      <p class="ritu">
+      <h1 class="qui">QUALITY POLICY</h1>
+      <img class="uioph" style="margin-top: 20px; height: 300px; width: 100%;" src="../../images/vbanner.jpg" alt="">
+
+      <p style="margin-top: 50px;" class="ritu">
         EDS International has vast experience for designing of Infrastructure,
         commercial, educational & industrial project, high-rise and medium rise
         oces commercial and mixed-use buildings. The Company is also involved in

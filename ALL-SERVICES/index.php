@@ -21,7 +21,7 @@
 
     <div class="nav">
         <div class="navbar">
-            <img src="../../images/eds-international-copy-164x76.png">
+            <img src="../images/eds-international-copy-164x76.png">
         </div>
         <div class="options">
             <div class="navigate">
@@ -33,20 +33,20 @@
             </div>
 
             <ul class="links op">
-                <li class="lin"> <a class="lin" href="../../index.html">HOME</a></li>
+                <li class="lin"> <a class="lin" href="../../index.php">HOME</a></li>
                 <li class="lin ser">
                     <div>
                         ABOUT <ion-icon name="chevron-down-outline" role="img" class="md hydrated"
                             aria-label="chevron down outline"></ion-icon>
                     </div>
                     <ul class="hon">
-                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/About-pages/index.html">PROFILE</a></li>
-                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/certificate/index.html">CERTIFICATES</a> </li>
-                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/Quality policy/index.html">QUALITY POLICY</a> </li>
-                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/Our clients/index.html">OUR CLIENTS</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/About-pages/index.php">PROFILE</a></li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/certificate/index.php">CERTIFICATES</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/Quality policy/index.php">QUALITY POLICY</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../ALL-ABOUT-PAGES/Our clients/index.php">OUR CLIENTS</a> </li>
                     </ul>
                 </li>
-                <li class="lin"> <a class="lin" href="../ALL-SERVICES/index.html">SERVICES</a> </li>
+                <li class="lin"> <a class="lin" href="../ALL-SERVICES/index.php">SERVICES</a> </li>
 
                 <li class="lin flop">
                     <div class="nonp">
@@ -68,8 +68,8 @@
                         <li class="CIVIL">COMMUNICATION</li>
                     </ul>
                 </li>
-                <li class="lin"> <a class="lin" href="../CAREER-PAGE/index.html"> CAREER</a></li>
-                <li class="lin"> <a class="lin" href="../ALL-CONTACT-PAGES/index.html">CONTACT</a> </li>
+                <li class="lin"> <a class="lin" href="../CAREER-PAGE/index.php"> CAREER</a></li>
+                <li class="lin"> <a class="lin" href="../ALL-CONTACT-PAGES/index.php">CONTACT</a> </li>
             </ul>
         </div>
     </div>
@@ -79,8 +79,9 @@
 
     <div class="width">
         <h1 class="ser">SERVICES</h1>
+        <img class="uioph" style="margin-top: 20px; height: 300px; width: 100%;" src="../images/vbanner.jpg" alt="">
 
-        <h1 class="cent">EDS INTERNATIONAL</h1>
+        <h1 style="margin-top: 50px;" class="cent">EDS INTERNATIONAL</h1>
 
 
 

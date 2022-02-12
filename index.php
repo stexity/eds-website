@@ -83,14 +83,14 @@
             ABOUT <ion-icon name="chevron-down-outline"></ion-icon>
           </div>
           <ul class="hon">
-            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/About-pages/index.html">PROFILE</a></li>
-            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/certificate/index.html">CERTIFICATES</a> </li>
-            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/Quality policy/index.html">QUALITY POLICY</a>
+            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/About-pages/index.php">PROFILE</a></li>
+            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/certificate/index.php">CERTIFICATES</a> </li>
+            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/Quality policy/index.php">QUALITY POLICY</a>
             </li>
-            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/Our clients/index.html">OUR CLIENTS</a> </li>
+            <li class="CIVIL"> <a class="CIVIL" href="./ALL-ABOUT-PAGES/Our clients/index.php">OUR CLIENTS</a> </li>
           </ul>
         </li>
-        <li class="lin"> <a class="lin" href="./ALL-SERVICES/index.html">SERVICES</a> </li>
+        <li class="lin"> <a class="lin" href="./ALL-SERVICES/index.php">SERVICES</a> </li>
 
         <li class="lin flop">
           <div class="nonp">
@@ -111,8 +111,8 @@
             <li class="CIVIL">COMMUNICATION</li>
           </ul>
         </li>
-        <li class="lin"><a class="lin" href="./CAREER-PAGE/index.html">CAREER</a> </li>
-        <li class="lin"><a class="lin" href="./ALL-CONTACT-PAGES/index.html">CONTACT</a></li>
+        <li class="lin"><a class="lin" href="./CAREER-PAGE/index.php">CAREER</a> </li>
+        <li class="lin"><a class="lin" href="./ALL-CONTACT-PAGES/index.php">CONTACT</a></li>
       </ul>
     </div>
   </div>
@@ -338,6 +338,11 @@
         </div>
       </div>
     </div>
+    <div class="center-project">
+    <a href="./projects/projects.php">
+    <button class="btn1-all-porjects">All Projects</button>
+  </a>  
+  </div>
   </div>
 
   <div class="imges residential">

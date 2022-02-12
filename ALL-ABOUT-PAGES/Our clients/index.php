@@ -26,20 +26,20 @@
             </div>
 
             <ul class="links op">
-                <li class="lin"> <a class="lin" href="../../index.html">HOME</a></li>
+                <li class="lin"> <a class="lin" href="../../index.php">HOME</a></li>
                 <li class="lin ser">
                     <div>
                         ABOUT <ion-icon name="chevron-down-outline" role="img" class="md hydrated"
                             aria-label="chevron down outline"></ion-icon>
                     </div>
                     <ul class="hon">
-                        <li class="CIVIL"> <a class="CIVIL" href="../About-pages/index.html">PROFILE</a></li>
-                        <li class="CIVIL"> <a class="CIVIL" href="../certificate/index.html">CERTIFICATES</a> </li>
-                        <li class="CIVIL"> <a class="CIVIL" href="../Quality policy/index.html">QUALITY POLICY</a> </li>
-                        <li class="CIVIL"> <a class="CIVIL" href="index.html">OUR CLIENTS</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../About-pages/index.php">PROFILE</a></li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../certificate/index.php">CERTIFICATES</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="../Quality policy/index.php">QUALITY POLICY</a> </li>
+                        <li class="CIVIL"> <a class="CIVIL" href="index.php">OUR CLIENTS</a> </li>
                     </ul>
                 </li>
-                <li class="lin"><a class="lin" href="../../ALL-SERVICES/index.html">SERVICES</a></li>
+                <li class="lin"><a class="lin" href="../../ALL-SERVICES/index.php">SERVICES</a></li>
 
                 <li class="lin flop">
                     <div class="nonp">
@@ -61,8 +61,8 @@
                         <li class="CIVIL">COMMUNICATION</li>
                     </ul>
                 </li>
-                <li class="lin"> <a class="lin" href="../../CAREER-PAGE/index.html">CAREER</a></li>
-                <li class="lin"> <a class="lin" href="../../ALL-CONTACT-PAGES/index.html">CONTACT</a> </li>
+                <li class="lin"> <a class="lin" href="../../CAREER-PAGE/index.php">CAREER</a></li>
+                <li class="lin"> <a class="lin" href="../../ALL-CONTACT-PAGES/index.php">CONTACT</a> </li>
             </ul>
         </div>
     </div>
@@ -72,13 +72,17 @@
 
 
 <div class="wid">
-    <h1 class="jamail">OUR CLIENTS</h1>
+
+
+
+    <h1 style="margin-top: 50px;" class="jamail">OUR CLIENTS</h1>
+    <img class="uioph" style="margin-top: 20px; height: 300px; width: 100%;" src="../../images/vbanner.jpg" alt="">
 
 
 
 
 
-<div class="clients">
+<div style="margin-top: 50px;" class="clients">
     <img class="show" src="../../images/cliens/18-150x150.jpg">
     <img class="show" src="../../images/cliens/1-150x150.jpg">
     <img class="show" src="../../images/cliens/19-150x150.jpg">
