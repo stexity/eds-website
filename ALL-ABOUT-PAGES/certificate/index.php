@@ -74,8 +74,8 @@
     <!-- navbar END -->
 
 
-    <div class="all-CERTIFICATES">
-        <img class="uioph" style="margin-top: 20px; height: 300px; width: 100%;" src="../../images/vbanner.jpg" alt="">
+    <div class="all-CERTIFICATES " style="margin-top: 35px;">
+        <img class="uioph" style="width: 100%; height: 300px;" src="../../images/vbanner.jpg" alt="">
 
         <h1 class="rigest">REGISTRATION, MEMBERSHIP & CERTIFICATE DETAILS</h1>
 
@@ -85,7 +85,7 @@
                 <h1 class="pec">PAKISTAN ENGINEERING
                     COUNCIL (PEC) REGISTRATION</h1>
                 <img class="certi" src="./images/certificates-1.png">
-                <p class="shop">ISO CERTIFICATION</p>
+                <p class="shop"><a class="shop" style="text-decoration: underline; color: rgb(36, 36, 36);"  href="./images/certificates-1.png">View</a></p>
             </div>
 
 
@@ -93,14 +93,14 @@
                 <h1 class="pec">ASSOCIATION OF CONSULTING
                     ENGINEERING (PAKISTAN)</h1>
                 <img class="certi" src="./images/certificates18.png">
-                <p class="shop">ISO CERTIFICATION</p>
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates18.png">View</a></p>
             </div>
 
             <div class="certificates">
                 <h1 class="pec">ASSOCIATION OF CONSULTING
                     ENGINEERING (PAKISTAN)</h1>
                 <img class="certi" src="./images/certificates19.png">
-                <p class="shop">ISO CERTIFICATION</p>
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates19.png">View</a></p>
             </div>
 
 
@@ -110,7 +110,7 @@
                     BUILDING CONTROL AUTHORITY
                     (SBCA)</h1>
                 <img class="certi" src="./images/certificates2-1.png">
-                <p class="shop">ISO CERTIFICATION</p>
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates2-1.png">View</a></p>
             </div>
         </div>
 
@@ -145,23 +145,27 @@
             <div class="certificates">
 
                 <img class="certi" src="./images/ISO-Certificate-724x1024.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;"  href="./images/ISO-Certificate-724x1024.png">View</a></p>
             </div>
 
 
             <div class="certificates">
 
                 <img class="certi" src="./images/certificates4-1.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates4-1.png">View</a></p>
             </div>
 
             <div class="certificates">
 
                 <img class="certi" src="./images/certificates6.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates6.png">View</a></p>
             </div>
 
 
             <div class="certificates">
 
                 <img class="certi" src="./images/certificates5-1.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates5-1.png">View</a></p>
             </div>
         </div>
 
@@ -180,6 +184,7 @@
                 <h1 class="pec">PAKISTAN SECURITY PRINTING
                     CORPORATION (PVT.) LIMITED</h1>
                 <img class="certi" src="./images/certificates9.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates9.png">View</a></p>
             </div>
 
 
@@ -187,11 +192,13 @@
                 <h1 class="pec">PAKISTAN PETROLEUM LIMITED
                     (PPL)</h1>
                 <img class="certi" src="./images/certificates7.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates7.png">View</a></p>
             </div>
 
             <div class="certificates">
                 <h1 class="pec">SECURITY PAPERS LIMITED (SPL)</h1>
                 <img class="certi" src="./images/certificates8.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates8.png">View</a></p>
             </div>
 
 
@@ -219,10 +226,7 @@
                     SANGHAR SUGAR MILLS LIMITED</h1>
                 <img class="certi" src="./images/1.png">
 
-                <p class="shop">CONSTRUCTION OF MIXING
-                    PLANT & BUILDING FOR GENERAL
-                    TYRE & RUBBER COMPANY OF
-                    PAKISTAN LIMITED</p>
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/1.png">View</a></p>
             </div>
 
 
@@ -232,10 +236,7 @@
                 </h1>
                 <img class="certi" src="./images/2.png">
 
-                <p class="shop">PILING WORKS DESIGN FOR
-                    SHARJAH BANK (1590 PILES),
-                    DUBAI
-                    /p>
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/2.png">View</a></p>
             </div>
 
             <div class="certificates">
@@ -244,6 +245,7 @@
                     UAE
                 </h1>
                 <img class="certi" src="./images/3.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/3.png">View</a></p>
 
             </div>
 
@@ -255,6 +257,7 @@
                     LIMITED
                 </h1>
                 <img class="certi" src="./images/4.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/4.png">View</a></p>
             </div>
         </div>
 
@@ -278,12 +281,14 @@
             <div class="certificates">
 
                 <img class="certi" src="./images/ISO-Certificate-724x1024.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/ISO-Certificate-724x1024.png">View</a></p>
             </div>
 
 
             <div class="certificates">
 
                 <img class="certi" src="./images/certificates4-1.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/certificates4-1.png">View</a></p>
             </div>
 
 
@@ -318,6 +323,7 @@
                     (FBR)
                 </h1>
                 <img class="certi" src="./images/5.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/5.png">View</a></p>
 
             </div>
 
@@ -325,6 +331,7 @@
             <div class="certificates">
                 <h1 class="pec">SINDH REVENUE BOARD (SRB) </h1>
                 <img class="certi" src="./images/6.png">
+                <p class="shop"><a class="shop" style="color: rgb(36, 36, 36); text-decoration: underline;" href="./images/6.png">View</a></p>
             </div>
         </div>
 

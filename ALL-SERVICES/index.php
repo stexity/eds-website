@@ -33,7 +33,7 @@
             </div>
 
             <ul class="links op">
-                <li class="lin"> <a class="lin" href="../../index.php">HOME</a></li>
+                <li class="lin"> <a class="lin" href="../index.php">HOME</a></li>
                 <li class="lin ser">
                     <div>
                         ABOUT <ion-icon name="chevron-down-outline" role="img" class="md hydrated"
@@ -598,7 +598,7 @@
 
 <div class="footer">
     <div class="gio35">
-      <img src="../../images/eds-international-copy-164x76.png" />
+      <img src="../images/eds-international-copy-164x76.png" />
       <p class="lort">
         Engineering Design Services
         founded in 1994 is a

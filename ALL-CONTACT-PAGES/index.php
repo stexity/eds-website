@@ -148,7 +148,7 @@
 
 <div class="footer">
     <div class="gio35">
-      <img src="../../images/eds-international-copy-164x76.png" />
+      <img src="../images/eds-international-copy-164x76.png" />
       <p class="lort">
         Engineering Design Services
         founded in 1994 is a
